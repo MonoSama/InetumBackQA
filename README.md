@@ -3,7 +3,7 @@ Guía de Uso del Framework Karate DSL
 Proyecto: QA Automation Junior con Karate DSL – Yrvin Pachas (Inetum)
 
 Este proyecto contiene pruebas automatizadas utilizando Karate DSL para verificar el correcto funcionamiento de la API de gestión de usuarios del sistema ServeRest. 
-Eh utilizado un enfoque de reutilización de funciones para optimizar el tiempo y mejorar la eficiencia de las pruebas, eliminando la necesidad de crear un usuario manualmente en cada prueba. 
+He utilizado un enfoque de reutilización de funciones para optimizar el tiempo y mejorar la eficiencia de las pruebas, eliminando la necesidad de crear un usuario manualmente en cada prueba. 
 Esto permite ejecutar las pruebas de GET, PUT y DELETE sin necesidad de manejar el ID de los usuarios, ya que el POST de creación de usuario es reutilizado automáticamente.
 
 📁 Estructura del Proyecto
